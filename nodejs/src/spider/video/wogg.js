@@ -24,7 +24,7 @@ ali: {
     token280: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
 },
 wogg: {
-    url: 'https://wogg.xyz',
+    url: 'https://www.wogg.net',
 },
 */
 async function init(inReq, _outResp) {
